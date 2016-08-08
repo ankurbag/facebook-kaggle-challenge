@@ -33,4 +33,4 @@ This is the Hadoop 0.20 projects to implement the Supervised Learning on trainin
 ##3.R-code
 1. HadoopProjectAnalysis : For analysis of data
 2. Knn : Sample knn job 
-https://cloud.githubusercontent.com/assets/3647390/17494736/0995c162-5d84-11e6-8c8b-a8cda814b729.PNG
+![image](https://cloud.githubusercontent.com/assets/3647390/17494736/0995c162-5d84-11e6-8c8b-a8cda814b729.PNG)
